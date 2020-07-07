@@ -1,0 +1,23 @@
+.pay-complete {
+  text-align: center;
+  .icon {
+    width: 240rpx;
+    height: 148rpx;
+    background: url(https://www.chinafish.club/image/PAY/pay-icon.png) no-repeat center;
+    background-size: contain;
+    margin: 100rpx auto;
+  }
+  h2 {
+    font-size: 40rpx;
+    line-height: 30rpx;
+    margin-bottom: 50rpx;
+  }
+  p {
+    font-size: 30rpx;
+    line-height: 40rpx;
+    margin: 0 50rpx 50rpx;
+  }
+  .handler-btn {
+    margin: 20rpx 50rpx;
+  }
+}

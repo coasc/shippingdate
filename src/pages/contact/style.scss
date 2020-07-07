@@ -1,0 +1,17 @@
+.feedback {
+  height: 100%;
+  background: #fff;
+  padding: 0 20rpx;
+  text-align: center;
+  .title {
+    padding: 20rpx 0;
+  }
+  .cont {
+    position: relative;
+    img {
+      width: 400rpx;
+      height: 400rpx;
+      margin: 30rpx auto;
+    }
+  }
+}
